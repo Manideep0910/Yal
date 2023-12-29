@@ -1,0 +1,7 @@
+{
+    "index": {
+        "fields": ["txDate"]
+    },
+    "name" : "common-index",
+    "type" : "json"
+}
